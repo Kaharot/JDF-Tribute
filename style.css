@@ -1,3 +1,7 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
 body {
   background-color: #3c5129;
   font-size: 18px;
@@ -35,7 +39,7 @@ blockquote {
 #jdf {
   float: left;
   max-width: 40%;
-  min-width: 50px;
+  min-width: 340px;
   border: inset medium white;
   margin: 20px;
 }
@@ -47,6 +51,7 @@ blockquote {
   font-size: 80%;
   text-align: center;
   background-color: #28361b;
+  margin: 10px 0px;
 }
 a {
   color: white;
